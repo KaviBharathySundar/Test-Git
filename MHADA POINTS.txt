@@ -2,10 +2,3 @@ Verify Map loading and responsiveness.
 Validate data sync between GIS and other modules.
 Ensure UI responsiveness.
 Verify Search and Filter functionality.
-Test Report Export Options (PDF, Excel).
-Test User role - based access.
-Validate data on Dashboards.
-Re-run old test cases after updates to ensure nothing is broken
-Ensure every module works as intended.
-Test both Positive and Negative scenarios.
-Test Login and Logout flows.
